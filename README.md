@@ -15,8 +15,8 @@ Marketing & Sales
 # <b>Technologies used:</b>
 - Python
 - Anaconda Jupyter Notebook
-- Pycharm
+- PyCharm
 - HTML/CSS/JS
 - Tensorflow
-- Heroku
+- HeroKu
 
