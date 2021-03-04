@@ -8,6 +8,9 @@ https://nlpproductmarketing.herokuapp.com/
 # Project Type: 
 Multi-Class Classification
 
+# Domain Targeted:
+Marketing & Sales
+
 # <b>Technologies used:</b>
 - Python
 - Anaconda Jupyter Notebook
