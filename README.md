@@ -4,3 +4,13 @@ Product Marketing Using Customer Sentiments is a prototype project in which we a
 Website URL:
 
 https://nlpproductmarketing.herokuapp.com/
+
+
+<b>Technologies used:</b>
+- Python
+- Anaconda Jupyter Notebook
+- Pycharm
+- HTML/CSS/JS
+- Tensorflow
+- Herku
+
